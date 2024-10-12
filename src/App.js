@@ -1,7 +1,7 @@
 import React from 'react';
-import Header from './Header';
-import CurrencyForm from './CurrencyForm';
-import Footer from './Footer';
+import Header from './components/Header';
+import CurrencyForm from './components/CurrencyForm';
+import Footer from './components/Footer';
 
 const App = () => {
   return (
